@@ -1,4 +1,4 @@
-First-Git
+Juhuu!
 =========
 
-Try
+First challenge done
